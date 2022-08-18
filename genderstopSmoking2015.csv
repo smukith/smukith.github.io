@@ -1,0 +1,11 @@
+Metric_Primary,Metric_Secondary,Percentage
+Setting a quit date,Male,100
+Successfully quit (self-reported),Male,52
+Not quit,Male,25
+Not known/lost to follow up,Male,23
+Successfully quit confirmed by CO validation,Male,38
+Setting a quit date,Female,100
+Successfully quit (self-reported),Female,50
+Not quit,Female,28
+Not known/lost to follow up,Female,23
+Successfully quit confirmed by CO validation,Female,35
