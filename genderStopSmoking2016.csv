@@ -1,91 +1,12 @@
 Metric_Primary,Metric_Secondary,Value,Percentage
-Setting a quit date,Male,101629,100
-Successfully quit (self-reported),Male,52152,51
-Not quit,Male,26452,26
-Not known/lost to follow up,Male,23025,23
-Successfully quit confirmed by CO validation,Male,38546,38
-Setting a quit date,Female,114016,100
-Successfully quit (self-reported),Female,55270,48
-Not quit,Female,32613,29
-Not known/lost to follow up,Female,26133,23
-Successfully quit confirmed by CO validation,Female,39273,35
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+Number setting a quit date,Male,101629,100
+Numbwe who successfully quit (self-reported),Male,52152,51
+Number who not quit,Male,26452,26
+Number Not known/lost to follow up,Male,23025,23
+Number who successfully quit confirmed by CO validation,Male,38546,38
+Number setting a quit date,Female,114016,100
+Number who successfully quit (self-reported),Female,55270,48
+Number not quit,Female,32613,29
+Number mot known/lost to follow up,Female,26133,23
+Number who successfully quit confirmed by CO validation,Female,39273,35
+
